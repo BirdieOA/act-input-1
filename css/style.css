@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+html{
+  color-scheme: dark;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+input,select,button{
+  font-family: 'Montserrat', sans-serif;
+  outline:none;
+}
+select{
+  height:22px;
+}
